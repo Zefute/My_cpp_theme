@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My C++ Theme
 
 **Автор:** Маршлалов Игорь Сергеевич, группа М3114
@@ -34,3 +35,6 @@
 2. В VS Code: панель Extensions → `...` → **Install from VSIX** → выбрать файл.
 3. Перезапустить VS Code.
 4. `Cmd+K` `Cmd+T` → выбрать **My C++ theme**.
+=======
+# My_cpp_theme
+>>>>>>> 9791c107e2d8ddf92d955797eaee70e8394874e6
