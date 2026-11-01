@@ -1,0 +1,21 @@
+{
+  "name": "my-cpp-theme",
+  "displayName": "my_cpp_theme",
+  "description": "my_cpp_theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "My C++ Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my_cpp_theme-color-theme.json"
+      }
+    ]
+  }
+}
